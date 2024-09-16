@@ -3,8 +3,7 @@ import styles from '@/app/ui/home.module.css';
 import {lusitana} from '@/app/ui/fonts'
 
 import Image from "next/image"
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faThumbsUp } from '@fortawesome/free-solid-svg-icons'
+
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
